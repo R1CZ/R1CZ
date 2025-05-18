@@ -38,35 +38,35 @@ Jonric Manisan</a></h1>
 <br>
 </li>
 </ul>
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="center">
- </p><div align="center" class="icons-social" style="margin-left: 10px;">
+<h3 align="left" style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color: #2d3748; margin: 24px 0 16px 0;">
+  <span style="display: inline-flex; align-items: left;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" style="margin-right: 8px; vertical-align: left;">
+    Connect With Me
+  </span>
+</h3>
+<p align="left">
+ </p><div align="left" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
+       <a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/yourprofile" rel="noopener noreferrer">
+<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/yourprofile" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook Icon" />
+</a>
       </div>
 <p></p>
-<h3 id="blogs-posts">Blogs posts</h3>
-<!-- BLOG-POST-LIST:START -->
-<ul>
-<li><a href="https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j">Download Instagram profile picture using python</a></li>
-<li><a href="https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1">Convert a image to sketch using python</a></li>
-<li><a href="https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8">Upload your project/files in GitHub using commands</a></li>
-</ul>
-<!-- BLOG-POST-LIST:END -->
-<hr>
-<p>Credit: <a href="https://github.com/100rabhcsmc">Saurabh Chavan</a></p>
-<p>Last Edited on: 08/08/2022</p> 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=R1CZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://nirzak-streak-stats.vercel.app/?user=R1CZ&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1CZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=R1CZ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=R1CZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
