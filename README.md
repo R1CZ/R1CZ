@@ -32,11 +32,9 @@ Jonric Manisan</a></h1>
 <p>📫 How to reach me <strong><a href="mailto:manisanjonric02@gmail.com">manisanjonric02@gmail.com</a></strong></p>
 </li>
 <li>
-<li>
   <p>📄 See my Works! <a href="https://ricz-portfolio-website.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a></p>
   <br>
 </li>
-
 <br>
 </li>
 </ul>
