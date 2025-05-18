@@ -20,28 +20,23 @@ Jonric Manisan</a></h1>
 </a>
 <ul>
 <li>
-<p>🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a></p>
+<p>🎓 I Graduated from La Salle University</a></p>
 </li>
 <li>
-<p>🌱 I’m currently Working on Mobile App(React-Native)</p>
+<p>🌱 I’m currently Learning on Web Development(React-Vite)</p>
 </li>
 <li>
 <p>🤝 I’m available for freelancing.</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Swift &amp;&amp; SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a></p>
+<p>📫 How to reach me <strong><a href="mailto:manisanjonric02@gmail.com">manisanjonric02@gmail.com</a></strong></p>
 </li>
 <li>
-<p>📝 I regularly write articles on <a href="https://dev.to/100rabhcsmc">https://dev.to/100rabhcsmc</a></p>
-</li>
 <li>
-<p>💬 Ask me about <strong>Reactjs &amp; React-Native</strong></p>
+  <p>📄 See my Works! <a href="https://ricz-portfolio-website.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a></p>
+  <br>
 </li>
-<li>
-<p>📫 How to reach me <strong><a href="mailto:saurabhchavan052@gmail.com">saurabhchavan052@gmail.com</a></strong></p>
-</li>
-<li>
-<p>📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a></p>
+
 <br>
 </li>
 </ul>
