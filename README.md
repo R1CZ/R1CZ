@@ -59,8 +59,11 @@ Jonric Manisan</a></h1>
       </div>
 <p></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=R1CZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://nirzak-streak-stats.vercel.app/?user=R1CZ&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1CZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=R1CZ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
