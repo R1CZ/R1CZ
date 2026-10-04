@@ -1,74 +1,140 @@
-  <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Jonric Manisan</a></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2898ff,100:00d4ff&height=200&section=header&text=Jonric%20Manisan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20|%20Front-End%20Developer&descAlignY=60" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=69F707&size=25&center=true&vCenter=true&width=700&height=100&lines=A+passionate+UI%2FUX+Web+Designer;Self-taught+Front-End+Developer;Information+Technology+Student;Newbie+in+Coding;Active+Learner%2FMultitasker;Love+to+learn+new+things+%E2%99%A5" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=69F707&center=true&vCenter=true&width=700&lines=UI%2FUX+Web+Designer;Front-End+Developer;Information+Technology+Graduate;Continuous+Learner+%26+Multitasker;Passionate+about+creating+intuitive+experiences" />
   </a>
 </p>
 
-<h1 id="-tech-stack"># 💻 Tech Stack::</h1>
-<p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/figma-FF6B6B.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/netlify-87CEEB.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify">
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"> <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=R1CZ&label=Profile%20views&color=0e75b6&style=flat" alt="R1CZ" />
+  <img src="https://img.shields.io/github/followers/R1CZ?logo=github&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="100rabhcsmc"> </p>
+<!-- ABOUT ME -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🎓 Graduated from <strong>La Salle University</strong> with a degree in Information Technology.</li>
+        <li>🌱 Currently expanding my skills in the <strong>React & Vite</strong> ecosystem.</li>
+        <li>🎨 Passionate about crafting clean, user-centric UI/UX designs.</li>
+        <li>🤝 Open to freelance opportunities and exciting collaborations.</li>
+        <li>📫 Reach me at <a href="mailto:manisanjonric02@gmail.com">manisanjonric02@gmail.com</a></li>
+        <li>📄 Check out my <a href="https://ricz-portfolio-website.netlify.app/" target="_blank">Portfolio</a></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<ul>
-<li>
-<p>🎓 I Graduated from La Salle University</a></p>
-</li>
-<li>
-<p>🌱 I’m currently Learning on Web Development(React-Vite)</p>
-</li>
-<li>
-<p>🤝 I’m available for freelancing.</p>
-</li>
-<li>
-<p>📫 How to reach me <strong><a href="mailto:manisanjonric02@gmail.com">manisanjonric02@gmail.com</a></strong></p>
-</li>
-<li>
-  <p>📄 See my Works! <a href="https://ricz-portfolio-website.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a></p>
-  <br>
-</li>
 <br>
-</li>
-</ul>
-<h3 align="left" style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color: #2d3748; margin: 24px 0 16px 0;">
-  <span style="display: inline-flex; align-items: left;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" style="margin-right: 8px; vertical-align: left;">
-    Connect With Me
-  </span>
-</h3>
-<p align="left">
- </p><div align="left" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jonric-manisan-33905a28a/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/riiicz_m/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/riczy.08/" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook Icon" />
-</a>
-      </div>
-<p></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<!-- TECH STACK -->
+## 🚀 Tech Stack
 
+<div align="center">
+
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🎨 Design & Prototyping
+![Figma](https://img.shields.io/badge/figma-FF6B6B.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### ☁️ Hosting, Tools & Platforms
+![Netlify](https://img.shields.io/badge/netlify-87CEEB.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+<br>
+
+<!-- CONNECT WITH ME -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonric-manisan-33905a28a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R1CZ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riiicz_m/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/riczy.08/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manisanjonric02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://ricz-portfolio-website.netlify.app/)
+
+</div>
+
+<br>
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R1CZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1CZ&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=R1CZ&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+<!-- TROPHIES & QUOTES -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=R1CZ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=R1CZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=R1CZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+</div>
+
+<br>
+
+## 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=R1CZ&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos">
+</div>
+
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2898ff,100:00d4ff&height=100&section=footer"/>
+</div>
